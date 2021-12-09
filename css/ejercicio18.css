@@ -1,0 +1,8 @@
+#fecha_usuario { 
+  background-color: #ffc;
+  cursor: default;
+  padding: .3em;
+  border: thin solid #ff0;
+  text-decoration: underline;
+  color: blue;
+}

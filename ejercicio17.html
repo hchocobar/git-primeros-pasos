@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Ejercicio 17 - Formularios: limitar número de caracteres en textarea</title>
+  <link rel="stylesheet" type="text/css" href="./css/ejercicio17.css">
+  <script type="text/javascript" src="./src/ejercicio17.js"></script>
+</head>
+
+<body>
+  <div id="info">Máximo 100 caracteres</div>
+  <textarea id="texto"
+    onkeypress="return limita(event, 100);"
+    onkeyup="actualizaInfo(100)"
+    rows="6" cols="30">
+  </textarea>
+</body>
+</html>
