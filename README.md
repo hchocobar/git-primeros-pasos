@@ -3,23 +3,20 @@ git-primeros-pasos-ibec-2021-diciembre created by GitHub Classroom
 
 ## Leer el tututorial de Git (primeros pasoso)
 
+
 ## 1er Tarea
 
-crear el archivo 
-
-	hello.js
-
-con el siguiente contenido
-
+- clonar en repositorio en mi pc
+- crear una rama
+- crear el archivo hello.js con el siguiente contenido:
 
   function hello() {
   
-    return "Hello world!";
+	return "Hello world!";
     
   }
   
   module.exports = hello;
-
-
-Luego subir el archivo mediante un commit
+- Luego subir el archivo mediante un commit
+- hacer un push
 
