@@ -1,8 +1,6 @@
-# git-primeros-pasos-ibec-2021-diciembre
-git-primeros-pasos-ibec-2021-diciembre created by GitHub Classroom
+# Git-primeros-pasos
 
 ## Leer el tututorial de Git (primeros pasoso)
-
 
 ## 1er Tarea
 
@@ -10,13 +8,13 @@ git-primeros-pasos-ibec-2021-diciembre created by GitHub Classroom
 - crear una rama
 - crear el archivo hello.js con el siguiente contenido:
 
-  function hello() {
-  
-	return "Hello world!";
-    
-  }
-  
-  module.exports = hello;
+	  function hello() {
+		return "Hello world!";
+	  }
+	  
+	  module.exports = hello;
+	  
+
+
 - Luego subir el archivo mediante un commit
 - hacer un push
-
